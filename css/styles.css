@@ -31,7 +31,7 @@
 }
 
 #title {
-  background-image: url("SVG/background.svg ");
+  background-image: url("https://raw.githubusercontent.com/vijaykrishnadas/portfolio/1e3bb8b659e25acb5b5de2a17c79d72cf5e02709/SVG/background.svg");
   background-size: cover;
   font-family: 'Redressed', cursive;
 }

@@ -31,7 +31,7 @@
 }
 
 #title {
-  background-image: url("/Users/jaykrishna/Desktop/My Web Development/SVG/background.svg");
+  background-image: url("SVG/background.svg");
   background-size: cover;
   font-family: 'Redressed', cursive;
 }

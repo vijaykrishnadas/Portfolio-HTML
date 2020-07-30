@@ -217,6 +217,7 @@ h3 {
                                                         /* Work Section */
 
 #work-section{
+  margin: 0px;
   padding: 1rem;
   text-align: center;
   border: 2px dashed;
@@ -231,6 +232,7 @@ h3 {
 }
 
 .petdelicacyimage {
+  margin: 0px;
   width: 75%;
   float: center;
   padding-bottom: 3rem;

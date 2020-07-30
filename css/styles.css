@@ -89,8 +89,8 @@ color: #000 !important;
 
 .title-image{
   width: 60%;
-  border-radius: 1rem;
-  border: 0.5em dotted;
+  border-radius: 8%;
+  border: 0.5rem dotted;
   border-color: #71c9ce;
   float: right;
 }

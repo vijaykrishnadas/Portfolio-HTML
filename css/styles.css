@@ -352,6 +352,6 @@ h3 {
       float: none;
     }
     .petdelicacyimage {
-      width: calc(200px + 3rem);
+      width: calc(150px + 3rem);
     }
   }
